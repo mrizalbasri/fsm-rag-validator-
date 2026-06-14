@@ -5,4 +5,8 @@ __pycache__/
 .ipynb_checkpoints/
 *.csv
 *.pdf
+*.doc
+*.docx
 experiment_results.csv
+CLAUDE.md
+project_fsm_rag (1).md
