@@ -1,0 +1,9 @@
+langchain
+langchain-community
+transitions
+chromadb
+ragas
+google-generativeai
+datasets
+sentence-transformers
+pypdf
